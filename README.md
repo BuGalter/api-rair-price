@@ -56,7 +56,7 @@ $npm run test
 
 ## CHANGELOG HISTORY
 
-[CHANGELOG](https://github.com/REPOSITORY_NAME/PROJECT_NAME/blob/develop/CHANGELOG.md)
+[CHANGELOG](https://github.com/BuGalter/api-rair-price/blob/master/CHANGELOG.md)
 
 ### link to changelog
 
